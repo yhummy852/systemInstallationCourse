@@ -16,6 +16,11 @@ I cloned from pistis repo as i was lazy to type
 
 
 ## Add Image
-![Capture new](Capture%20new.PNG)
+![Capture1](./images/Capture1.PNG)
+![Capture2](./images/Capture2.PNG)
+![SSH](./images/Capture.PNG)
+![GIT](./images/Capture4.PNG)
+![VSCODE](./images/Capture5.PNG)
+
 
 
